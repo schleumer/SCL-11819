@@ -1,1 +1,3 @@
-This is the code for the "Hello Slick" tutorial for Slick 3.2.
+Example for issue: https://youtrack.jetbrains.com/issue/SCL-11819
+
+Issue can be seen here: https://github.com/schleumer/SCL-11819/blob/master/src/main/scala/Tables.scala#L19
